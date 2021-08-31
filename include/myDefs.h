@@ -7,6 +7,7 @@
     The space between words is 7 time units.
 
     todo: add user text input 
+    Added more text 
  */
 
 
