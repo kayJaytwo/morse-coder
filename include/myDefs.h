@@ -5,7 +5,11 @@
     The space between symbols (dots and dashes) of the same letter is 1 time unit.
     The space between letters is 3 time units.
     The space between words is 7 time units.
+
+    todo: add user text input 
  */
+
+
 #define TIMEUNIT 100 // one dot time
 #define DASHTIME (TIMEUNIT * 3)
 #define DOTTIME TIMEUNIT
